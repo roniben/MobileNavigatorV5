@@ -1,0 +1,3 @@
+rootProject.name = 'MobileNavigatorV5'
+
+include ':app'
